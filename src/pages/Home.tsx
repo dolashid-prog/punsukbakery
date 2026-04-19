@@ -46,7 +46,7 @@ export default function Home() {
       </div>
 
       {/* 2. Our Bestsellers */}
-      <section id="products" className="bg-brand-base py-[80px] scroll-mt-12">
+      <section id="products" className="bg-brand-base py-[80px]">
         <div className="container mx-auto px-6 lg:px-16 max-w-7xl text-center">
           <h2 className="font-serif text-[36px] text-brand-heading font-normal mb-[40px]">Signature Products</h2>
           
@@ -81,7 +81,7 @@ export default function Home() {
       </section>
 
       {/* 3. Tradition Meets Taste */}
-      <section id="about" className="bg-white py-[80px] scroll-mt-12">
+      <section id="about" className="bg-white py-[80px]">
         <div className="container mx-auto px-6 lg:px-16 max-w-7xl flex flex-col md:flex-row items-center gap-[60px]">
           <div className="flex-1 w-full order-2 md:order-1 relative">
              <div className="h-[400px] bg-brand-border rounded-[48px] overflow-hidden shadow-card">
@@ -110,7 +110,7 @@ export default function Home() {
       </section>
 
       {/* 4. Special Season */}
-      <section id="special" className="bg-brand-base py-[80px] scroll-mt-12">
+      <section id="special" className="bg-brand-base py-[80px]">
         <div className="container mx-auto px-6 lg:px-16 max-w-7xl flex flex-col md:flex-row items-center gap-[60px]">
           <div className="flex-1 space-y-[20px]">
             <h2 className="font-serif text-[36px] md:text-[46px] leading-[1.1] text-brand-heading font-normal">
