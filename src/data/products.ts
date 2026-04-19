@@ -1,0 +1,70 @@
+export const bestsellers = [
+  {
+    id: 1,
+    name: 'ชูครีม',
+    englishName: 'Choux Cream',
+    price: 89,
+    rating: 4.9,
+    image: '/product-1.jpg',
+  },
+  {
+    id: 2,
+    name: 'ช็อคโกแลตเค้ก',
+    englishName: 'Chocolate Cake',
+    price: 80,
+    rating: 4.8,
+    image: '/product-2.jpg',
+  },
+  {
+    id: 3,
+    name: 'ท๊อฟฟี่เค้ก',
+    englishName: 'Toffee Cake',
+    price: 65,
+    rating: 4.9,
+    image: '/product-3.jpg',
+  },
+  {
+    id: 4,
+    name: 'บัตเตอร์เค้ก',
+    englishName: 'Butter Cake',
+    price: 35,
+    rating: 4.7,
+    image: '/product-4.jpg',
+  },
+];
+
+export const allProducts = [
+  ...bestsellers,
+  {
+    id: 5,
+    name: 'บาสก์ชีสเค้ก',
+    englishName: 'Basque Cheesecake',
+    price: 70,
+    rating: 4.9,
+    image: '/basque-cheesecake.jpg',
+  },
+  {
+    id: 6,
+    name: 'เค้กกล้วยหอม',
+    englishName: 'Banana Cake',
+    price: 85,
+    rating: 4.9,
+    image: '/banana-cake.jpg',
+  },
+  {
+    id: 7,
+    name: 'คุกกี้สับปะรด',
+    englishName: 'Pineapple Cookie',
+    price: 79,
+    rating: 4.9,
+    image: '/pineapple-cookie.png',
+  },
+  {
+    id: 8,
+    name: 'สปันจ์เค้ก',
+    englishName: 'Sponge Cake',
+    price: 60,
+    rating: 4.9,
+    image: '/sponge-cake.jpg',
+  },
+];
