@@ -41,7 +41,7 @@ export const allProducts = [
     englishName: 'Basque Cheesecake',
     price: 70,
     rating: 4.9,
-    image: 'image/basque-cheesecake.jpg',
+    image: 'image/2.jpg',
   },
   {
     id: 6,
@@ -49,7 +49,7 @@ export const allProducts = [
     englishName: 'Banana Cake',
     price: 85,
     rating: 4.9,
-    image: 'image/banana-cake.jpg',
+    image: 'image/1.jpg',
   },
   {
     id: 7,
@@ -57,7 +57,7 @@ export const allProducts = [
     englishName: 'Pineapple Cookie',
     price: 79,
     rating: 4.9,
-    image: 'image/pineapple-cookie.png',
+    image: 'image/6.png',
   },
   {
     id: 8,
@@ -65,6 +65,6 @@ export const allProducts = [
     englishName: 'Sponge Cake',
     price: 60,
     rating: 4.9,
-    image: 'image/sponge-cake.jpg',
+    image: 'image/7.jpg',
   },
 ];
