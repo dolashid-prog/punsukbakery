@@ -49,7 +49,7 @@ export const allProducts = [
     englishName: 'Banana Cake',
     price: 85,
     rating: 4.9,
-    image: '/banana-cake.jpg',
+    image: 'public/banana-cake.jpg',
   },
   {
     id: 7,
