@@ -5,7 +5,7 @@ export const bestsellers = [
     englishName: 'Choux Cream',
     price: 89,
     rating: 4.9,
-    image: 'image/cake1.jpg',
+    image: 'image/product-1.jpg',
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const bestsellers = [
     englishName: 'Chocolate Cake',
     price: 80,
     rating: 4.8,
-    image: '/product-2.jpg',
+    image: 'image/product-2.jpg',
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const bestsellers = [
     englishName: 'Toffee Cake',
     price: 65,
     rating: 4.9,
-    image: '/product-3.jpg',
+    image: 'image/product-3.jpg',
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const bestsellers = [
     englishName: 'Butter Cake',
     price: 35,
     rating: 4.7,
-    image: '/product-4.jpg',
+    image: 'image/product-4.jpg',
   },
 ];
 
@@ -41,7 +41,7 @@ export const allProducts = [
     englishName: 'Basque Cheesecake',
     price: 70,
     rating: 4.9,
-    image: '/basque-cheesecake.jpg',
+    image: 'image/basque-cheesecake.jpg',
   },
   {
     id: 6,
@@ -49,7 +49,7 @@ export const allProducts = [
     englishName: 'Banana Cake',
     price: 85,
     rating: 4.9,
-    image: 'public/banana-cake.jpg',
+    image: 'image/banana-cake.jpg',
   },
   {
     id: 7,
@@ -57,7 +57,7 @@ export const allProducts = [
     englishName: 'Pineapple Cookie',
     price: 79,
     rating: 4.9,
-    image: '/pineapple-cookie.png',
+    image: 'image/pineapple-cookie.png',
   },
   {
     id: 8,
@@ -65,6 +65,6 @@ export const allProducts = [
     englishName: 'Sponge Cake',
     price: 60,
     rating: 4.9,
-    image: '/sponge-cake.jpg',
+    image: 'image/sponge-cake.jpg',
   },
 ];
