@@ -130,7 +130,7 @@ export default function Home() {
           <div className="flex-1 w-full relative">
             <div className="h-[400px] bg-brand-border rounded-t-[200px] rounded-b-[40px] overflow-hidden shadow-card">
               <img
-                src="/christmas-cake.jpg"
+                src="image/4.jpg"
                 alt="Christmas cake"
                 className="w-full h-full object-cover opacity-90"
                 referrerPolicy="no-referrer"
