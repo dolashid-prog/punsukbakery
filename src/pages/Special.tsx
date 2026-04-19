@@ -39,7 +39,7 @@ export default function Special() {
             <div className="w-full h-full rounded-[36px] md:rounded-[40px] overflow-hidden relative shadow-inner">
               <div className="absolute inset-0 bg-black/5 z-10 pointer-events-none transition-opacity group-hover:opacity-0 mix-blend-multiply rounded-[36px] md:rounded-[40px]"></div>
               <img 
-                 src="/cake-hero-banner.jpg" 
+                 src="image/3.jpg" 
                  alt="Special Season" 
                  className="absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
                  referrerPolicy="no-referrer"

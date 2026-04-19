@@ -12,7 +12,7 @@ export default function Navbar() {
       <div className="flex items-center">
         <Link to="/">
           <img 
-            src="/logo.png"
+            src="image/logo1.png"
             alt="PunSuk Bakery Logo"
             className="h-[50px] md:h-[70px] w-auto object-contain"
             onError={(e) => {
