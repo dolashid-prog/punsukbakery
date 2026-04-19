@@ -12,7 +12,7 @@ export default function Footer() {
           <div className="flex flex-col items-center md:items-start text-center md:text-left">
             <div className="inline-block mb-6">
               <img 
-                src="/logo.png"
+                src="image/logo1.png"
                 alt="PunSuk Bakery Logo"
                 className="h-[50px] md:h-[60px] w-auto object-contain"
                 onError={(e) => {
