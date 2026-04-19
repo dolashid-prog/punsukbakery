@@ -5,7 +5,7 @@ export const bestsellers = [
     englishName: 'Choux Cream',
     price: 89,
     rating: 4.9,
-    image: '/product-1.jpg',
+    image: 'src/public/:product-1.jpg',
   },
   {
     id: 2,
