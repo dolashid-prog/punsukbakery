@@ -46,13 +46,13 @@ export default function Footer() {
                 <div className="flex items-start gap-4 justify-center md:justify-start transition-colors hover:text-brand-primary">
                   <MapPin size={22} className="text-brand-accent mt-1 flex-shrink-0" />
                   <span className="leading-relaxed text-left">
-                    123 ถนนสุขุมวิท แขวงคลองเตย<br />
-                    เขตคลองเตย กรุงเทพมหานคร 10110
+                    47 ถนน ศรีบูรพา15 แขวงคลองจั่น<br />
+                    เขตบางกะปิ กรุงเทพมหานคร 10240
                   </span>
                 </div>
                 <div className="flex items-center gap-4 justify-center md:justify-start transition-colors hover:text-brand-primary">
                   <Phone size={20} className="text-brand-accent flex-shrink-0" />
-                  <span>080-123-4567</span>
+                  <span>0621628769</span>
                 </div>
                 <div className="flex items-center gap-4 justify-center md:justify-start transition-colors hover:text-brand-primary">
                   <Mail size={20} className="text-brand-accent flex-shrink-0" />
